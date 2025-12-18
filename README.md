@@ -126,7 +126,7 @@ Date,Branch,Revenue
 
 ---
 
-## 📌 Use Cases
+##  Use Cases
 
 * Financial performance analysis
 * Branch-level KPI monitoring
@@ -158,12 +158,13 @@ Date,Branch,Revenue
 ##  Contact
 
 **Joel Omanye Thompson**
-📧 [joelomanye23@gmail.com](mailto:joelomanye23@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/joel-thompson233/)
+ [joelomanye23@gmail.com](mailto:joelomanye23@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/joel-thompson233/)
 
 ---
 
  *If you’re a recruiter or hiring manager, feel free to explore the dashboard locally or reach out for a walkthrough.*
+
 
 
 
