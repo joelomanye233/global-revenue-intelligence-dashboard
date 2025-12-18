@@ -1,11 +1,11 @@
-# 🌍 Global Revenue Intelligence Dashboard
+#  Global Revenue Intelligence Dashboard
 
 An interactive, analytics-driven dashboard built with **Python and Streamlit** to analyze multi-year revenue performance across company branches.
 Designed to mirror real-world financial and business intelligence workflows used in consulting, analytics, and finance teams.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The **Global Revenue Intelligence Dashboard** enables users to:
 
@@ -19,7 +19,7 @@ This project focuses on **data cleaning, analytics logic, and decision-making**,
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 ### 📊 Revenue Performance Analysis
 
@@ -46,7 +46,7 @@ This project focuses on **data cleaning, analytics logic, and decision-making**,
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Python**
 * **Streamlit** – interactive web dashboard
@@ -56,7 +56,7 @@ This project focuses on **data cleaning, analytics logic, and decision-making**,
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 global-dashboard/
@@ -109,7 +109,7 @@ http://localhost:8501
 
 ---
 
-## 📄 Sample Dataset Format
+##  Sample Dataset Format
 
 Your CSV file **must contain these columns**:
 
@@ -136,7 +136,7 @@ Date,Branch,Revenue
 
 ---
 
-## 💼 Resume-Ready Impact
+## Resume-Ready Impact
 
 * Built a production-style analytics dashboard with **end-to-end data workflow**
 * Automated revenue performance analysis across **multi-year datasets**
@@ -145,7 +145,7 @@ Date,Branch,Revenue
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Inflation-adjusted revenue analysis
 * Year-over-year growth metrics
@@ -155,7 +155,7 @@ Date,Branch,Revenue
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Joel Omanye Thompson**
 📧 [joelomanye23@gmail.com](mailto:joelomanye23@gmail.com)
@@ -163,7 +163,8 @@ Date,Branch,Revenue
 
 ---
 
-⭐ *If you’re a recruiter or hiring manager, feel free to explore the dashboard locally or reach out for a walkthrough.*
+ *If you’re a recruiter or hiring manager, feel free to explore the dashboard locally or reach out for a walkthrough.*
+
 
 
 
