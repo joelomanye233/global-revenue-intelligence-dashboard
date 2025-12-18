@@ -21,7 +21,7 @@ This project focuses on **data cleaning, analytics logic, and decision-making**,
 
 ##  Key Features
 
-### 📊 Revenue Performance Analysis
+###  Revenue Performance Analysis
 
 * Branch-level revenue aggregation
 * Monthly and yearly filtering
@@ -31,14 +31,14 @@ This project focuses on **data cleaning, analytics logic, and decision-making**,
   * 🟡 Meets Expected
   * 🔴 Below Expected
 
-### 📈 Interactive Visualizations
+###  Interactive Visualizations
 
 * Bar charts for branch comparisons
 * Line charts for revenue trends over time
 * Color-coded performance indicators
 * KPI summary cards for executive insights
 
-### 🎯 Scenario & Forecast Analysis
+###  Scenario & Forecast Analysis
 
 * User-defined **expected revenue input**
 * Real-time recalculation of performance status
@@ -164,6 +164,7 @@ Date,Branch,Revenue
 ---
 
  *If you’re a recruiter or hiring manager, feel free to explore the dashboard locally or reach out for a walkthrough.*
+
 
 
 
